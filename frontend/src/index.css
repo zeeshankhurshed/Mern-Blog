@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    color:#1e73Be;
+}
+
+/* input[type=number]{
+    .moz-appearence:textfield;
+} */
